@@ -1,0 +1,19 @@
+Assignment 1 Report
+
+Name: Anup Kanale
+
+1. Naive Bayes performance on the development data
+1a. spam precision: 0.99
+1b. spam recall: 0.98
+1c. spam F1 score: 0.99
+1d. ham precision: 0.95
+1e. ham recall: 0.98
+1f. ham F1 score: 0.96
+
+2. Perceptron performance on the development data
+2a. spam precision: 0.98
+2b. spam recall: 0.94
+2c. spam F1 score: 0.9
+2d. ham precision: 0.86
+2e. ham recall: 0.94
+2f. ham F1 score: 0.90
